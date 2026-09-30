@@ -14,7 +14,7 @@ Python 3.10+, aiogram 3, google-genai
 
 ## Установка
 ```bash
-git clone https://github.com/trp799-hub/ai-telegram-bot.git
+git clone https://github.com/trpе799-hub/ai-telegram-bot.git
 cd ai-telegram-bot
 python -m venv venv
 venv\Scripts\activate        # Windows
